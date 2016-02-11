@@ -1,6 +1,7 @@
 [user]
-	name = Victor Arribas
-	email = v.arribas.urjc@gmail.com
+        email = fj.gutierrezs91@gmail.com
+        name = jgmatu
+
 
 [alias]
 	root = rev-parse --show-toplevel
